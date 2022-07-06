@@ -34,5 +34,7 @@
 
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/MathRMM/MathRMM/blob/output/github-contribution-grid-snake.gif)
+
+
 
