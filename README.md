@@ -7,7 +7,7 @@
 <h2 align="left">About me!!</h2>
 
 <div aling = center>
-  <img align="right" height="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
+  <img align="right" height="300" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
 
   <h2 align="left">I’m currently student of Driven (Full-Stack bootcamp).<br>I’m currently learning React and Node.js.<br>Pronouns: He/His</h2>
   </div>
@@ -19,7 +19,7 @@
 
 
 
-<p align="left">Code with:</p>
+<h2 align="left">Code with:</h2>
 
 
 
