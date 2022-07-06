@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center">Hi 👋! My name is Matheus</h1>
 
-<!--
-**MathRMM/MathRMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">Future Software Engineering</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="left">About me!!</h2>
+
+<div aling = center>
+  <img align="right" height="250" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
+
+  <h2 align="left">I’m currently student of Driven (Full-Stack bootcamp).<br>I’m currently learning React and Node.js.<br>Pronouns: He/His</h2>
+  </div>
+
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=MathRMM" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=MathRMM" height="150" alt="languages graph"  />
+</div>
+
+
+
+<p align="left">Code with:</p>
+
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
+</div>
+
+
+
+<img href="https://raw.githubusercontent.com/MathRMM/MathRMM/blob/output/snake.svg" alt="Snake animation" />
+
