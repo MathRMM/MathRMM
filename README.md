@@ -36,7 +36,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=MathRMM" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/MathRMM/MathRMM/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MathRMM/MathRMM/output/snake.svg" alt="Snake animation" />
 
 ###
 
