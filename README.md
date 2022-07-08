@@ -11,23 +11,24 @@
 
   <h2 align="left">
   I’m currently student of Driven (Full-Stack bootcamp).<br>
-  I’m currently learning React and Node.js.<br>
+  I’m currently learning React.<br>
   Pronouns: He/His
   </h2>
  </div>
  
- <h2 align="left">Code with:</h2>
-
-
+ <h2 align="left">Front-end</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+</div> 
+
+<h2 align="left">Tools:</h2>
+<div align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
-</div>
+</div> 
 
 <br clear="both">
 
