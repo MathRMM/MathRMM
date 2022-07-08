@@ -4,7 +4,7 @@
 <h3 align="center">Future Software Engineering</h3>
 
 
-<h2 align="left">About me!!</h2>
+<h2 align="left">About me!!:</h2>
 
 <div aling = center>
   <img align="right" height="300" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
@@ -16,7 +16,7 @@
   </h2>
  </div>
  
- <h2 align="left">Front-end</h2>
+ <h2 align="left">Front-end:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
