@@ -3,9 +3,6 @@
 
 <h3 align="center">Full-Stack Web Developer</h3>
 
-
-<h2 align="left">About me!!:</h2>
-
 <div aling = center>
   <img align="right" height="300" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
 
