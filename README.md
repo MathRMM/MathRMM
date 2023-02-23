@@ -14,8 +14,6 @@
   Pronouns: He/His
   </h2>
  </div>
- 
- <h2 align="left">Languages and Tools:</h2>
 
 <div align="left">
   
