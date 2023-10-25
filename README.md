@@ -58,6 +58,7 @@
     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
     <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-actions" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="kafka" width="40" height="40"/> </a>
   </h3>
 
   <h3 align="left">
@@ -71,8 +72,8 @@
   </h3>
 
   <h3 align="left">
-    <p>Princípios:</p>
-    OOP, SOLID, Clean Code, Architecture in Layers, API REST, Design Pattern, Domain Driven Design, Test Driven Development, testes e2e, testes integrados, testes unitários.
+    <p>Key Principles and Best Practices:</p>
+   OOP, SOLID, Clean Code, Architecture in Layers, RESTful API, Design Pattern, Domain Driven Design, Test Driven Development, end-to-end testing, integrated testing, unit testing.
   </h3>
 </div>
 
