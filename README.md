@@ -70,11 +70,9 @@
     <a href="https://gatling.io/" target="_blank" rel="noreferrer"> <img src="https://gatling.io/wp-content/uploads/2021/05/startup-gatling-company-join.png" alt="gatling" width="40" height="40"/> </a>
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="40" height="40"/> </a>
   </h3>
-
-  <h3 align="left">
-    <p>Key Principles and Best Practices:</p>
-   OOP, SOLID, Clean Code, Architecture in Layers, RESTful API, Design Pattern, Domain Driven Design, Test Driven Development, end-to-end testing, integrated testing, unit testing.
-  </h3>
+    <h3 align="left"> Key Principles and Best Practices: </h3>
+     <p>OOP, SOLID, Clean Code, Architecture in Layers, RESTful API, Design Pattern, Domain Driven Design, Test Driven Development, end-to-end testing, integrated testing, unit testing.</p>
+ 
 </div>
 
 <br clear="both">
