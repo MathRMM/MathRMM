@@ -1,13 +1,13 @@
 <h1 align="center">Hey! Nice to see you.</h1>
 
-<h3 align="center">Full Stack Developer</h3>
-
 <div align="center">
   <img align="right" height="300" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
 </div>
 
-<p>Welcome to my page! </br> I'm Matheus, Fullstack developer from <b>Bora de Play</b>.</p>
-
+<p>Welcome to my page! </br> I'm Matheus, Fullstack developer from <b>Bora de Play</b>, currently working on an app that leverages geolocation to connect with fellow enthusiasts of your favorite sport.</p>
+<p>My domain tools are TypeScript, NestJS, GraphQL, and React Native.</p>
+<p>Currently, I'm studying Apache Kafka, microservices, and load testing.</p>
+ 
 <h3>Things I code with</h3>
 
 <div align="left">
